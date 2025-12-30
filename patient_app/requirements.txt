@@ -1,0 +1,13 @@
+# AI-CARE Lung 病人端 v2.3
+# 支援真實 AI 語音電話功能
+
+# Streamlit 框架
+streamlit>=1.28.0
+
+# Google Sheets API
+gspread>=5.12.0
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+
+# 🆕 Twilio 語音電話（可選）
+twilio>=8.10.0
